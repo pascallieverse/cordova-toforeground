@@ -1,0 +1,19 @@
+{
+  "name": "cordova-toforceground",
+  "version": "1.0.0",
+  "description": "Cordova plugin for Android to bring an app to foreground ===================================================",
+  "main": "www/ToForceground.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pascallieverse/cordova-toforeground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pascallieverse/cordova-toforeground/issues"
+  },
+  "homepage": "https://github.com/pascallieverse/cordova-toforeground#readme"
+}
